@@ -75,7 +75,7 @@ li {
 }
 
 .button {
-  background-color: red;
+  background-color: blue;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -89,7 +89,7 @@ li {
 
 .button:hover {
   background-color: white;
-  color: red;
+  color: blue;
 }
 
 .header {
@@ -115,7 +115,7 @@ li {
 
 .header a:hover {
   background-color: white;
-  color: red;
+  color: blue;
 }
 
 @media screen and (max-width: 500px) {
